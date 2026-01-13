@@ -204,7 +204,7 @@ const AbsensiForm = () => {
           </div>
         )}
 
-        <p className="text-center mt-6 text-slate-400 text-xs tracking-wide uppercase">© 2024 Sistem Absensi Digital</p>
+        <p className="text-center mt-6 text-slate-400 text-xs tracking-wide uppercase">© 2026 mendunia.id</p>
       </div>
     </div>
   );
